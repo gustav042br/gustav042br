@@ -6,7 +6,7 @@
 ## Who I am?
 - A young undergraduate student in Computer Science (til December/2028), who want to specialize in the field of Data Science. For this I've study the mathematican foundations of that field because much more important to know of math concepts than the hype tech tools (first its necessary understand the purpose and, only after that, put action), so this is a long road ahead 😬😁.
 
-![Workout Deku](images/maidorya.gif)
+![Workout Deku](images/midorya.gif)
 
 ## About me
 - Brasil 🇧🇷
